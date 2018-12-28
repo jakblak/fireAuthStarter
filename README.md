@@ -1,5 +1,15 @@
 # Ngfire
 
+## EDIT THESE FILES
+1. src/app/shared/shared.module.ts **line 11** `with your google maps API key`
+2. src/app/weather/weather.service.ts **line 13** `with your openweathermap.org API key` 
+
+## INSTALL DEPENDENCIES
+- type `yarn` or `npm i`
+
+## RUN
+- type `ng s -o`
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.7.
 
 ## Development server
